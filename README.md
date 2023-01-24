@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mangus Nwaokeleme
+### Hi there 👋, I'm Magnus Nwaokeleme
 
 
 
