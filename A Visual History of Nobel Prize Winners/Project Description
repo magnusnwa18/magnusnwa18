@@ -1,0 +1,13 @@
+# Project Description: Analyzing Nobel Prize Winners
+
+## Project Overview
+The goal of this project is to perform a comprehensive analysis of Nobel Prize winners, their demographics, and the trends related to the Nobel Prize awards over the years. We will use the 'nobel.csv' dataset, which contains information about Nobel Prize laureates, including their birth date, birth country, the category of the prize, and the year of the award.
+
+## Objectives
+1. **Data Preparation:** Import and preprocess the 'nobel.csv' dataset to make it suitable for analysis.
+
+2. **Data Exploration:** Explore the dataset to understand the distribution of Nobel Prizes by various factors, such as sex, birth country, and category. How many Nobel Prizes have been awarded? Are there any notable trends or patterns?
+
+3. **Age Analysis:** Calculate the age of Nobel Prize winners at the time of receiving the prize. How has the age of laureates changed over the years? Are there specific age trends in different prize categories?
+
+4. **Analysis of Oldest and Youngest Winners:** Identify and analyze the oldest and youngest Nobel Prize winners. What fields are these laureates recognized in? Do they share any common characteristics or achievements?
